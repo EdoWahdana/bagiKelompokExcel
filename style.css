@@ -1,0 +1,33 @@
+@media screen and (max-width: 600px) {
+    body {
+        background-image: url("assets/wave.png");
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 30%;
+        font-family: 'Poppins', sans-serif !important;
+    }
+}
+@media screen and (min-width: 600px) {
+    body {
+        background-image: url("assets/wave.png");
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        font-family: 'Poppins', sans-serif !important;
+    }
+}
+
+
+.title {
+    margin-top: 50px !important;
+    text-shadow: 7px 5px 10px rgba(0, 0, 0, 0.4);
+}
+.dropfile {
+    font-size: 10px;
+    font-weight: 100;
+}
+.no-margin {
+    margin: 0 0 0 0;
+}
