@@ -10,6 +10,7 @@ Saya yakin program ini masih banyak bug dan kekurangan,mudah-mudahan kedepannya 
 ### Bagaimana cara menggunakannya ?
 1.  Siapkan file excel yang berisi daftar mahasiswa kelas.
 2.  Pastikan dalam file excel tersebut,baris pertamanya berupa Header atau Kategori yang mewakili jenis data yang ada di bawahnya. Contoh : 
+
 ![Contoh gambar header excel file](https://user-images.githubusercontent.com/49039269/81694314-63907d00-948b-11ea-92e0-71a77a0dd846.png)
 
 3.  Upload file yang sudah disiapkan tersebut
