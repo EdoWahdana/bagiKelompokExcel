@@ -50,7 +50,7 @@
 
 
     <!-- Dropzone -->
-    <script src="vendor/dropzone/dist/dropzone.js"></script>
+    <script src="vend/enyo/dropzone/dist/dropzone.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
