@@ -1,5 +1,6 @@
 {
     "require": {
+        "php": "^7.2.0",
         "phpoffice/phpspreadsheet": "^1.12",
         "enyo/dropzone": "^5.7"
     }
