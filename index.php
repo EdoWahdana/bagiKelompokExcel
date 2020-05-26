@@ -6,9 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bagi Kelompok</title>
 
-    <!-- Dropzone -->
-    <script src="vendor/enyo/dropzone/dist/dropzone.js"></script>
-
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <!-- Compiled and minified JavaScript -->
@@ -52,6 +49,8 @@
     </div>
 
 
+    <!-- Dropzone -->
+    <script src="vendor/enyo/dropzone/dist/dropzone.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
