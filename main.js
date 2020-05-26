@@ -56,7 +56,8 @@ myZone.on("success", function(file, res) {
     //Override Preview Template dengan HTML kosong
     file.previewTemplate.innerHTML = "";
     
-    console.log(file);
+    console.log("Ini file : " + file);
+    console.log("Ini response : " + res);
 
     //Proses data untuk ditampilkan dalam table
     let arrayResult = JSON.parse(res);
