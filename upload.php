@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+require 'vend/autoload.php';
 
 use \PhpOffice\PhpSpreadsheet\IOFactory;
 
