@@ -63,10 +63,10 @@ myZone.on("success", function(file, res) {
     let tablePreview = document.getElementById("tableData");
     arrayResult.forEach((dataRow, index) => {
         let row = tablePreview.insertRow();
-        if(index == 0) row.setAttribute("class", "center-align")
         dataRow.forEach(dataCol => {
             let col = row.insertCell();
             col.appendChild(document.createTextNode(dataCol));
+            col.setAttribute("style", "padding: 10px 30px;")
         });
     });
 
